@@ -321,7 +321,7 @@ controller-manager   Healthy   ok
 etcd-0               Healthy   {"health":"true"}   
 ```
 
-9. 减产CNI提供的程序插件是否需要升级
+9. 检查CNI提供的程序插件是否需要升级
 
 示例中使用的网络插件是[calico](https://docs.projectcalico.org/introduction/)。kubec
 
